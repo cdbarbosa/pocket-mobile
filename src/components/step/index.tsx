@@ -1,4 +1,4 @@
-import { Image, Text, View } from "react-native";
+import { Text, View } from "react-native";
 import { LucideProps } from "lucide-react-native";
 import { s } from "./styles";
 import { colors } from "@/src/styles/colors";
